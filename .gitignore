@@ -1,0 +1,6 @@
+coverage/
+coverage/**
+bin/
+bin/**
+obj/
+obj/**
